@@ -15,6 +15,7 @@ and open the template in the editor.
         
         
         echo "这是个什么鬼";
+        echo "真好玩";
         ?>
     </body>
 </html>
