@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        
+        
+        echo "这是个什么鬼";
         ?>
     </body>
 </html>
